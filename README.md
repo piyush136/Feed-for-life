@@ -1,22 +1,15 @@
-# FeedForward
-Live Link:-https://feed-forward-red.vercel.app/
+# Feed-for-life
+
+Live Link: https://feed-forward-red.vercel.app/
+
 # Food Donation Event Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-### Home Page
-![Home Page](frontend/public/HomePage.png)
-
-### About Us
-![About Us](frontend/public/AboutUs.png)
-
-
-### Events
-![Events](frontend/public/EventsPage.png)
 ## Overview
 
-The Food Donation Event Platform is a web application designed to facilitate the creation and management of food donation events. It connects donors with volunteers to contribute to the UN's 2nd Sustainable Development Goal (SDG) of Zero Hunger. The platform is built using the MERN stack, Tailwind CSS, React-Redux for state management, and Cloudinary for image uploads.
+Feed-for-life is a web application designed to facilitate the creation and management of food donation events. It connects donors with volunteers to contribute to the UN's 2nd Sustainable Development Goal (SDG) of Zero Hunger. The platform is built using the MERN stack, Tailwind CSS, React-Redux for state management, and Cloudinary for image uploads.
 
 ## Features
 
@@ -59,8 +52,8 @@ The Food Donation Event Platform is a web application designed to facilitate the
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/food-donation-platform.git
-    cd food-donation-platform
+    git clone https://github.com/yourusername/feed-for-life.git
+    cd feed-for-life
     ```
 
 2. **Install dependencies for both frontend and backend:**
@@ -135,6 +128,4 @@ For questions or suggestions, please open an issue or contact the project mainta
 
 ---
 
-Thank you for using the Food Donation Event Platform and contributing to the fight against hunger!
-
-# Feed-for-life
+Thank you for using Feed-for-life and contributing to the fight against hunger!
