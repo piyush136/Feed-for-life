@@ -1,15 +1,22 @@
-# Feed-for-life
-
-Live Link: https://feed-forward-red.vercel.app/
-
+# FeedForward
+Live Link:-https://feed-forward-red.vercel.app/
 # Food Donation Event Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
+### Home Page
+![Home Page](frontend/public/HomePage.png)
+
+### About Us
+![About Us](frontend/public/AboutUs.png)
+
+
+### Events
+![Events](frontend/public/EventsPage.png)
 ## Overview
 
-Feed-for-life is a web application designed to facilitate the creation and management of food donation events. It connects donors with volunteers to contribute to the UN's 2nd Sustainable Development Goal (SDG) of Zero Hunger. The platform is built using the MERN stack, Tailwind CSS, React-Redux for state management, and Cloudinary for image uploads.
+The Food Donation Event Platform is a web application designed to facilitate the creation and management of food donation events. It connects donors with volunteers to contribute to the UN's 2nd Sustainable Development Goal (SDG) of Zero Hunger. The platform is built using the MERN stack, Tailwind CSS, React-Redux for state management, and Cloudinary for image uploads.
 
 ## Features
 
@@ -51,14 +58,16 @@ Feed-for-life is a web application designed to facilitate the creation and manag
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/feed-for-life.git
-    cd feed-for-life
-    ```
+    
+bash
+    git clone https://github.com/yourusername/food-donation-platform.git
+    cd food-donation-platform
+
 
 2. **Install dependencies for both frontend and backend:**
 
-    ```bash
+    
+bash
     # Install backend dependencies
     cd backend
     npm install
@@ -66,42 +75,45 @@ Feed-for-life is a web application designed to facilitate the creation and manag
     # Install frontend dependencies
     cd ../frontend
     npm install
-    ```
+
 
 3. **Set up environment variables:**
 
-    Create a `.env` file in the `backend` directory and add the following:
+    Create a .env file in the backend directory and add the following:
 
-    ```env
+    
+env
     PORT=5000
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret
     CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
     CLOUDINARY_API_KEY=your_cloudinary_api_key
     CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-    ```
+
 
 ### Running the Application
 
 1. **Start the backend server:**
 
-    ```bash
+    
+bash
     cd backend
     npm start
-    ```
+
 
 2. **Start the frontend development server:**
 
-    ```bash
+    
+bash
     cd frontend
     npm start
-    ```
+
 
 3. **Open your browser and navigate to:**
 
-    ```
-    http://localhost:3000
-    ```
+    
+http://localhost:3000
+
 
 ## Future Enhancements
 
@@ -128,4 +140,6 @@ For questions or suggestions, please open an issue or contact the project mainta
 
 ---
 
-Thank you for using Feed-for-life and contributing to the fight against hunger!
+Thank you for using the Food Donation Event Platform and contributing to the fight against hunger!
+
+# Feed-for-life   make it my readme   change th project naem as feed for life
