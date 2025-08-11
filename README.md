@@ -1,4 +1,4 @@
-# FeedForward
+# Feed For Life
 Live Link:-https://feed-forward-red.vercel.app/
 # Food Donation Event Platform
 
@@ -6,7 +6,10 @@ Live Link:-https://feed-forward-red.vercel.app/
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ### Home Page
-![Home Page](frontend/public/HomePage.png)
+![Home Page](frontend/public/1.png)
+![Home Page](frontend/public/2.png)
+![Home Page](frontend/public/3.png)
+![Home Page](frontend/public/4.png)
 
 ### About Us
 ![About Us](frontend/public/AboutUs.png)
